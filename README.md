@@ -1,6 +1,6 @@
 ### Elliot Fitzgerald
 
-I'm a U.S. lawyer with about 17 years of practice, including in-house and general counsel roles, now based in Modi'in, Israel. I build AI tools, agents, and web apps with Claude Code to automate legal and personal workflows, using the same habits I used to build compliance programs: write the process down, define the checks, and keep a human in charge of the judgment calls.
+Lawyer building AI tools, agents and web apps with Claude Code to automate legal and personal workflows.
 
 Featured work:
 
